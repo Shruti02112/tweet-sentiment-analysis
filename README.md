@@ -2,7 +2,6 @@
 
 This project analyzes tweet sentiments using **Natural Language Processing (NLP)** techniques and visualizes the results with **Matplotlib** and **Seaborn**.
 
----
 
 ## 🔍 Features
 
@@ -11,7 +10,6 @@ This project analyzes tweet sentiments using **Natural Language Processing (NLP)
 - 📊 Visualizations of sentiment distribution and polarityusing **Matplotlib & Seaborn**
 - 📁 Built in **Jupyter Notebook** for interactivity
 
----
 
 ## 🛠 Tech Stack
 
